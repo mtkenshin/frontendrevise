@@ -7,7 +7,6 @@
  * @returns {Promise<any>}
  */
 async function fetchWithRetry(asyncFn, options = { retries: 3, delay: 1000, backoffFactor: 2}, attempt = 0) {
-
   const { retries: maxAttempts, delay, backoffFactor } = options;
   try {
     return await asyncFn();
