@@ -11,3 +11,6 @@
 [UI Architecture and System Design](FE-Revise/ui-architecture.md)
 [Framework & Component Patterns](FE-Revise/framework-component-patterns.md)
 [Testing, Quality & Team Standards](FE-Revise/testing.md)
+
+
+[JS Implementations](FE-Revise/js-implementations.md)
