@@ -15,5 +15,10 @@
 * [Framework & Component Patterns](FE-Revise/framework-component-patterns.md)
 * [Testing, Quality & Team Standards](FE-Revise/testing.md)
 ---
+
+## Advanced Concepts
+* [Browser Storage](FE-Revise/browser-storage.md)
+* [Website Optimisations](FE-Revise/website-optimisations.md)
+
 ## Implementations
 * [JS Implementations](FE-Revise/js-implementations.md)
