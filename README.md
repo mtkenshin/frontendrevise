@@ -19,6 +19,7 @@
 ## Advanced Concepts
 * [Browser Storage](FE-Revise/browser-storage.md)
 * [Website Optimisations](FE-Revise/website-optimisations.md)
+* [Meta Tags](FE-Revise/meta-tags.md)
 
 ## Implementations
 * [JS Implementations](FE-Revise/js-implementations.md)
